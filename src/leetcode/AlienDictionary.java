@@ -1,3 +1,5 @@
+package leetcode;
+
 public class AlienDictionary {
     public boolean isAlienSorted(String[] words, String order) {
 
